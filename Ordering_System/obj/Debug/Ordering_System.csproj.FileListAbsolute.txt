@@ -1,0 +1,22 @@
+D:\ZafarAliDATA\Visual Studio work\Mini Projects\Ordering_System\Ordering_System\bin\Debug\Ordering_System.exe.config
+D:\ZafarAliDATA\Visual Studio work\Mini Projects\Ordering_System\Ordering_System\bin\Debug\Ordering_System.exe
+D:\ZafarAliDATA\Visual Studio work\Mini Projects\Ordering_System\Ordering_System\bin\Debug\Ordering_System.pdb
+D:\ZafarAliDATA\Visual Studio work\Mini Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.csprojResolveAssemblyReference.cache
+D:\ZafarAliDATA\Visual Studio work\Mini Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.Form1.resources
+D:\ZafarAliDATA\Visual Studio work\Mini Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.Properties.Resources.resources
+D:\ZafarAliDATA\Visual Studio work\Mini Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.csproj.GenerateResource.Cache
+D:\ZafarAliDATA\Visual Studio work\Mini Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.exe
+D:\ZafarAliDATA\Visual Studio work\Mini Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.pdb
+D:\ZafarAliDATA\Visual Studio work\Mini Projects\Ordering_System\Ordering_System\bin\Debug\OrderSystemDb.mdf
+D:\ZafarAliDATA\Visual Studio work\Mini Projects\Ordering_System\Ordering_System\bin\Debug\OrderSystemDb_log.ldf
+D:\ZafarAliDATA\Mini Projects\Ordering_System\Ordering_System\bin\Debug\OrderSystemDb.mdf
+D:\ZafarAliDATA\Mini Projects\Ordering_System\Ordering_System\bin\Debug\OrderSystemDb_log.ldf
+D:\ZafarAliDATA\Mini Projects\Ordering_System\Ordering_System\bin\Debug\Ordering_System.exe.config
+D:\ZafarAliDATA\Mini Projects\Ordering_System\Ordering_System\bin\Debug\Ordering_System.exe
+D:\ZafarAliDATA\Mini Projects\Ordering_System\Ordering_System\bin\Debug\Ordering_System.pdb
+D:\ZafarAliDATA\Mini Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.csprojResolveAssemblyReference.cache
+D:\ZafarAliDATA\Mini Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.Form1.resources
+D:\ZafarAliDATA\Mini Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.Properties.Resources.resources
+D:\ZafarAliDATA\Mini Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.csproj.GenerateResource.Cache
+D:\ZafarAliDATA\Mini Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.exe
+D:\ZafarAliDATA\Mini Projects\Ordering_System\Ordering_System\obj\Debug\Ordering_System.pdb
